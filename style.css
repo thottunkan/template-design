@@ -8,7 +8,7 @@ html,body{
   font-size: 1.2rem;
 }
 .home{
-  background: url('img/background.png') no-repeat center center fixed;
+  background: url('img/beach_sunset_girl_4k.jpg') no-repeat center center fixed;
   display: table;
   position: relative;
   height: 100%;
@@ -42,7 +42,7 @@ html,body{
 }
 
 #fixed{
-  background: url('img/background.png') no-repeat center center fixed ;
+  background: url('img/girl_is_sitting_on_beach_sand_watching_ocean_waves_during_sunset_hd_beach.jpg') no-repeat center center fixed ;
   display: table;
   height: 60%;
   position: relative;
@@ -56,7 +56,7 @@ footer{
   padding: 15px 5px 10px 5px;
   width: 100%;
   color: #fff;
-  background-color: #23415c;
+  background-color: #2d2e2d;
  
 }
 
@@ -73,4 +73,9 @@ footer{
   .icon{
     padding-top: 5%;
   }
+}
+
+.navbar-brand{
+  font-size:30px ;
+  font-weight: 800;
 }
